@@ -57,7 +57,3 @@ Do you want to use your public IP address (y/n)?
 
 - [nlohmann/json](https://github.com/nlohmann/json): For JSON parsing.
 - [cURL](https://curl.se/): For making HTTP requests.
-
-
-## 🤝 Contributing:
-Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or create a pull request.
