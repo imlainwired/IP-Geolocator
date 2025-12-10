@@ -1,4 +1,4 @@
-# 📍 IP-Geolocator:
+## 📍 IP-Geolocator:
 
 ![Alt Text](https://github.com/NeoOverride/IP-Geolocator/blob/main/image.png)
 
