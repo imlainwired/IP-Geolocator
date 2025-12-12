@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/NeoOverride/IP-Geolocator/blob/main/image.png)
 
-- This script fetches geolocation information about an IP address using APIs. It provides details such as the country, city, region, timezone, and more. The input/output is displayed in a visually appealing bright bold white color for better readability.
+This script fetches geolocation information about an IP address using APIs. It provides details such as the country, city, region, timezone, and more. The input/output is displayed in a visually appealing bright bold white color for better readability.
 
 ## Features 
 1. Fetches public IP address automatically.
