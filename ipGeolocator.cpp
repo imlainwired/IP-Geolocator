@@ -25,6 +25,7 @@ void typewriter(const string& text, int delay_ms = 50) {
     cout << RESET << endl;  
 }
 
+
 string getPublicIP() {
     string ip;
     CURL *curl;
@@ -55,6 +56,7 @@ string getPublicIP() {
     curl_global_cleanup();
     return ip;
 }
+
 
 void getIPInfo(const string &ip) {
     string api_url = "https://ipinfo.io/" + ip + "/json";
@@ -118,6 +120,7 @@ void getIPInfo(const string &ip) {
     }
     curl_global_cleanup();
 }
+
 
 int main() {
     string ip;
